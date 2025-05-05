@@ -12,7 +12,12 @@ The switches are used to run the HDMI combined video and sound preview and recor
 The unit comes equipped with the HDMI cable, AC cord and external USB connector for the USB stick.  
 The video can be either saved to the external HDMI recorder, or internal memory and then transferred to the  
 USB stick.  
-  
+Alternativelly, recording can be made from HDMI using a HDMI recorder:
+Avermedia Technologies GC513 - Live Gamer Portable 2 PLUS
+Other recorders are also available. This particular recorder supports both FAT32 format and exFAT format  
+so there is no 2GB recording size limit. Some cheap recorders have support for FAT32 only with 2BG limit.
+https://www.touchboards.com/avermedia-technologies-gc513
+
 The Unit also has a small wireless keyboard that provides access to full RPI functionality including the  
 WiFi access from another computer on the local network.  
 The camera full functionality can be controlled through the wireless keyboard or over the WiFi.  
